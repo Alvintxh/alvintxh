@@ -1,10 +1,10 @@
-<a align="center">
+<div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&color=F7AAAAFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2Cthere.%F0%9F%91%8B+I'm+Alvintxh!" alt="Typing SVG" />
-</a>
+</div>
 
-<a align="center">
+<div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&color=F7AAAAFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
-</a>
+</div>
 
 ### About me
 - *Master student from ShanghaiTech University.*
