@@ -11,9 +11,14 @@
 - 🌱 *I’m currently working on Software Development for Scientific Instrument.*
 - 🤔 *I’m currently interested in Scientific Data Analysis and AI4S.*
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1105086090639069235?showDisplayName=true&animated=false&animatedDecoration=false&hideStatus=true&hideTag=true&hideSpotify=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true)](https://discord.com/users/1105086090639069235)
+
+
 ---
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,apple,arch,ubuntu,windows,docker,gmail," />
   </a>
 </p>
+
