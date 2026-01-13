@@ -1,6 +1,10 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Alvintxh+here)](https://git.io/typing-svg)
 
-A master student from ShanghaiTech University.
+### About me
+- *Master student from ShanghaiTech University.*
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,arch,ubuntu,windows)](https://skillicons.dev)
 <!--
 **Alvintxh/alvintxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
