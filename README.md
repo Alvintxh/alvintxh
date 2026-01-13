@@ -7,7 +7,7 @@
 </div>
 
 ### About me
-- 🔭 *Master student from ShanghaiTech University.*
+- 🔭 *I’m currently a Master Student from ShanghaiTech University.*
 - 🌱 *I’m currently working on Software Development for Scientific Instrument.*
 - 🤔 *I’m currently interested in Scientific Data Analysis and AI4S.*
 
