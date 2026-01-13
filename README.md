@@ -12,7 +12,12 @@
 - 🤔 *I’m currently interested in Scientific Data Analysis and AI4S.*
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,arch,ubuntu,windows)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,arch,ubuntu,windows" />
+  </a>
+</p>
+
 <!--
 **Alvintxh/alvintxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
