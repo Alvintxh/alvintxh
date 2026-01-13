@@ -14,7 +14,7 @@
 ---
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,apple,arch,ubuntu,windows,docker,gmail," />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,apple,arch,ubuntu,windows,docker,gmail," />
   </a>
 </p>
 
