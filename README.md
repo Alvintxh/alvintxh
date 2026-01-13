@@ -8,11 +8,12 @@
 
 <img align="" src="https://img.shields.io/badge/Discord-alvinxh-5865F2?style=for-the-badge&logo=discord&logoColor=whitee"/>
 
+
 ## About me
 - 🔭 *I’m currently a Master Student from ShanghaiTech University.*
 - 🌱 *I’m currently working on Software Development for Scientific Instrument.*
 - 🤔 *I’m currently interested in Scientific Data Analysis and AI4S.*
-- 📫 *If you’re interested in me or my work, feel free to connect with me on Discord.*
+- 📫 *If you’re interested in me or my work, feel free to connect with me on [Discord](https://discord.com/users/1105086090639069235) or my [Email](mailto:alvin2003tian@outlook.com).*
 ---
 
 <p align="center">
