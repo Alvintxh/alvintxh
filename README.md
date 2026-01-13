@@ -6,10 +6,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&color=F7AAAAFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
----
-- *Master student from ShanghaiTech University.*
-
-
+### About me
+- 🔭 *Master student from ShanghaiTech University.*
+- 🌱 *I’m currently working on Software Development for Scientific Instrument.*
+- 🤔 *I’m currently interested in Scientific Data Analysis and AI4S.*
 ---
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,arch,ubuntu,windows)](https://skillicons.dev)
 <!--
