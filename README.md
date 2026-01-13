@@ -6,14 +6,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&color=F7AAAAFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-### About me
+
+
+## About
+<img align="right" src="https://lanyard.cnrad.dev/api/1105086090639069235?showDisplayName=true&hideActivity=true"/>
+
 - 🔭 *I’m currently a Master Student from ShanghaiTech University.*
 - 🌱 *I’m currently working on Software Development for Scientific Instrument.*
 - 🤔 *I’m currently interested in Scientific Data Analysis and AI4S.*
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1105086090639069235?showDisplayName=true&animated=false&animatedDecoration=false&hideStatus=true&hideTag=true&hideSpotify=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true)](https://discord.com/users/1105086090639069235)
-
+- 📫 *If you’re interested in me or my work, feel free to connect with me on Discord.*
 
 ---
 <p align="center">
