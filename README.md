@@ -14,9 +14,10 @@
 ---
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,arch,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,apple,arch,ubuntu,windows,docker,gmail," />
   </a>
 </p>
+
 
 <!--
 **Alvintxh/alvintxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
