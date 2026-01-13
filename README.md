@@ -7,7 +7,7 @@
 </div>
 
 ## About me
-- 🔭 *I’m currently a Master Student from ShanghaiTech University.*
+- 🔭 *I’m currently a Master Student from China.*
 - 🌱 *I’m currently working on Software Development for Scientific Instrument.*
 - 🤔 *I’m currently interested in Scientific Data Analysis and AI4S.*
 - 💬 *I speak 🇨🇳 中文 and 🇺🇸 English*
@@ -19,4 +19,3 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,apple,arch,ubuntu,windows,docker,gmail," />
   </a>
 </p>
-
