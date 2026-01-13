@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&color=F7AAAAFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvintxh)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvintxh)
 
 ## About me
 - 🔭 *I’m currently a Master Student from ShanghaiTech University.*
