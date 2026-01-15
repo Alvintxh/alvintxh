@@ -14,6 +14,9 @@
 - 💬 *I speak 🇨🇳 中文 and 🇺🇸 English*
 - 📫 *If you’re interested in me or my work, feel free to contact me on [Discord](https://discord.com/users/1105086090639069235) or [Email](mailto:alvin2003tian@outlook.com).*
 
+<img align="left" width=350 src="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/main/github-metrics.svg" />
+
+<img align="right" width="400" src="https://github-readme-stats-flax-eight-95.vercel.app/api?username=Alvintxh&show_icons=true&rank_icon=default&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=F39415&icon_color=FF933D&text_color=FFC83D"/>
 
 ---
 <p align="center">
@@ -23,9 +26,6 @@
 </p>
 
 
-<img align="left" width=350 src="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/main/github-metrics.svg" />
-
-<img align="right" width="400" src="https://github-readme-stats-flax-eight-95.vercel.app/api?username=Alvintxh&show_icons=true&rank_icon=default&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=F39415&icon_color=FF933D&text_color=FFC83D"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/output/github-contribution-grid-snake-dark.svg">
