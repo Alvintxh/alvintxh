@@ -23,9 +23,10 @@
 </p>
 
 
-<img align="center" width=350 src="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/main/github-metrics.svg" />
+<img align="left" width=350 src="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/main/github-metrics.svg" />
 
 
+<img align="right" width=350 src="https://github-readme-stats-flax-eight-95.vercel.app/api/top-langs/?username=Alvintxh&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/output/github-contribution-grid-snake-dark.svg">
