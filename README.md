@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&color=F7AAAAFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-
+[<img src="/github-metrics.svg" align="right" width="300"  />](#)
 ## About me
 - 🔭 *I’m currently a Master Student from China.*
 - 🌱 *I’m currently working on Software Development for Scientific Instrument.*
@@ -22,11 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a>
-    <img src="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/main/github-metrics.svg" />
-  </a>
-</p>
 
 
 <picture>
