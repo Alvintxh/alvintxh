@@ -13,7 +13,6 @@
 - 💬 *I speak 🇨🇳 中文 and 🇺🇸 English*
 - 📫 *If you’re interested in me or my work, feel free to contact me on [Discord](https://discord.com/users/1105086090639069235) or [Email](mailto:alvin2003tian@outlook.com).*
 
-
 ---
 <p align="center">
   <a>
