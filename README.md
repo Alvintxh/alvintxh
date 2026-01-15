@@ -19,9 +19,3 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,apple,arch,ubuntu,windows,docker,gmail," />
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/output/github-contribution-grid-snake.svg">
-</picture>
