@@ -19,11 +19,9 @@
 
 <img align="right" width="400" src="https://github-readme-stats-flax-eight-95.vercel.app/api?username=Alvintxh&show_icons=true&rank_icon=default&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=F7AAAAFF&icon_color=F7AAAAFF&text_color=F7AAAAFF"/>
 
-<p align="center">
-  <a>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,matlab,lua,bash,neovim,vim,pycharm,anaconda,git,github,latex,md,qt,discord,apple,arch,ubuntu,windows,docker,gmail," />
-  </a>
-</p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/output/github-contribution-grid-snake-dark.svg">
