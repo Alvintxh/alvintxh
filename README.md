@@ -12,7 +12,6 @@
 - 🌱 *I’m currently working on Software Development for Scientific Instrument.*
 - 🤔 *I’m currently interested in Scientific Data Analysis and AI4S.*
 - 💬 *I speak 🇨🇳 中文 and 🇺🇸 English*
-- 📫 *If you’re interested in me or my work, feel free to contact me on [Discord](https://discord.com/users/1105086090639069235) or [Email](mailto:alvin2003tian@outlook.com).*
 
 ---
 <img align="left" width=350 src="https://raw.githubusercontent.com/Alvintxh/alvintxh/refs/heads/main/github-metrics.svg" />
